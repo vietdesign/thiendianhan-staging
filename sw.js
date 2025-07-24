@@ -7,7 +7,7 @@ const urlsToCache = [
 ];
 
 // Thêm timestamp để force update
-const APP_VERSION = 1753361202429;
+const APP_VERSION = 1753361468084;
 
 // Install event - cache resources
 self.addEventListener('install', (event) => {
